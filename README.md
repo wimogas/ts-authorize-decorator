@@ -57,7 +57,7 @@ Get your local clone of this repo and install dependencies:
 
 ````
 git clone https://github.com/wimogas/ts-authorize-decorator
-cd ts-authorize
+cd ts-authorize-decorator
 npm install
 ````
 
